@@ -1,0 +1,4 @@
+# Versions exercised by the local packaging checks (Python 3.12).
+# Install the appropriate PyTorch CPU/CUDA build for your machine first.
+numpy==2.0.1
+torch==2.6.0
