@@ -1,8 +1,7 @@
-# PMSA — HAR
+# PMSA
 
 Source code for PMSA: shared multiscale temporal encoding, prototype-guided scale alignment, and class-conditioned preservation for continual time-series classification.
 
-This source package contains the **HAR model with a single linear classifier**, sequential training, frozen-checkpoint evaluation, and the original HAR_T ten-domain configuration. Datasets and pretrained weights are not bundled.
 
 ## Repository structure
 
